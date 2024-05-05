@@ -7,6 +7,7 @@
             Enter password<input type="password" name="pass"/><br><br>
             
             <button name="btn">Login</button>
+            <a href="forgetpassword.php">Forget Password?</a>
         </form>
     </body>
 </html>
